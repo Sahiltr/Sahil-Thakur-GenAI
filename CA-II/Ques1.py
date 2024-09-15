@@ -1,3 +1,10 @@
+"""Q:1 Generate a model in Python for representation of a bank account of type savings and
+balance along with transactions of deposit and withdrawals and currently create a program to
+generate 100 accounts with Random balance and transactions for no. of months and no. of
+transactions with a seed value of amount. Print all 100 accounts with the last balance and
+organize them by lowest to highest balance."""
+
+
 import random
 
 # Define a BankAccount class for Savings account

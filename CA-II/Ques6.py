@@ -1,3 +1,6 @@
+"""Q:6 Generate a model to represent a mathematical equation, write a program to parse the
+equation, and ask for input for each parameter."""
+
 
 import sympy as sp
 
