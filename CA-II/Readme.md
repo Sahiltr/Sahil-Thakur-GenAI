@@ -1,1 +1,1 @@
-Install all the necessery libraries from requirements.txt before running the project
+Create virtual environment and install all the necessery libraries from requirements.txt before running the project
